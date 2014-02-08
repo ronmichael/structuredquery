@@ -1,0 +1,40 @@
+/* http://colorschemedesigner.com/#3611Tw0w0w0w0 */
+
+body
+{
+	font-family: 'Ubuntu', sans-serif; 
+ 
+
+}
+
+.container
+{
+	margin: 50px auto;
+	width: 80%;
+	width: 700px;
+}
+
+.title
+{
+	font-size: 70px !important;
+	font-weight: bold;
+	
+	letter-spacing: -5px;
+	margin-bottom: 40px;
+	padding: 5px;
+
+}
+
+.logo
+{
+	 
+	width: 52px; 
+	margin: 0px 20px 0px 0px;
+}
+
+
+.welcome
+{
+	font-size: 18px;
+	line-height: 26px;
+}
