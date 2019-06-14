@@ -19,7 +19,7 @@ body
 .name
 {
 	display: block;
-	margin-top: 15px;
+	 
 	font-size: 50px !important;
 	font-weight: bold;
 	letter-spacing: -3.5px;
@@ -41,7 +41,7 @@ body
 {
 	color: black;
 	display: block;
-	margin-top: 45px;
+	margin-top: 15px;
 	font-size: 15px;
 	text-decoration: none;
 }
