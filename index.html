@@ -29,6 +29,13 @@
   .btn:hover { background: #184C8A; }
   .email { font-size: 15px; color: var(--muted); }
   .email:hover { color: var(--accent); }
+  @media (max-width: 600px) {
+    main { padding: 56px 20px; gap: 24px; justify-content: flex-start; }
+    .queries { font-size: 13px; margin-bottom: 8px; }
+    .title { gap: 16px; }
+    .title img { width: 64px; }
+    .btn { width: 100%; justify-content: center; }
+  }
 </style>
 </head>
 <body>
@@ -44,7 +51,7 @@
     <img src="img/structured-query-logo.png" alt="Structured Query logo" width="104" height="104">
     <h1>Structured Query</h1>
   </div>
-  <p>An information technology and software development consultancy.</p>
+  <p>Three decades of turning messy business problems into software that actually works. A small consultancy, built on experience.</p>
   <div class="contact">
     <a class="btn" href="mailto:ron@structuredquery.com">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg>
